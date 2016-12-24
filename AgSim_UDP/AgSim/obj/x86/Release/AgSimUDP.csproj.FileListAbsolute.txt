@@ -1,0 +1,9 @@
+C:\Users\Leno\Desktop\Application\AgSim.exe.config
+C:\Users\Leno\Desktop\AgSim_Dev\AgSim\obj\x86\Release\AgSim.exe
+C:\Users\Leno\Desktop\AgSim_Dev\AgSim\obj\x86\Release\AgSim.pdb
+C:\Users\Leno\Desktop\Application\AgSim.exe
+C:\Users\Leno\Desktop\Application\AgSim.pdb
+C:\Users\Leno\Desktop\AgSim_Dev\AgSim\obj\x86\Release\AgSimUDP.csprojResolveAssemblyReference.cache
+C:\Users\Leno\Desktop\AgSim_Dev\AgSim\obj\x86\Release\AgSimUDP.FormSimUDP.resources
+C:\Users\Leno\Desktop\AgSim_Dev\AgSim\obj\x86\Release\AgSimUDP.Properties.Resources.resources
+C:\Users\Leno\Desktop\AgSim_Dev\AgSim\obj\x86\Release\AgSimUDP.csproj.GenerateResource.Cache

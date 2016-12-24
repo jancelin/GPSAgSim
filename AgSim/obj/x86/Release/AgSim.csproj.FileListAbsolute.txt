@@ -22,3 +22,7 @@ C:\Users\Farm\Desktop\AgSim\bin\Release\AgSim.pdb
 C:\Users\Farm\Desktop\AgSim\obj\x86\Release\AgSim.FormSim.resources
 C:\Users\Farm\Desktop\AgSim\obj\x86\Release\AgSim.Properties.Resources.resources
 C:\Users\Farm\Desktop\AgSim\obj\x86\Release\AgSim.csproj.GenerateResource.Cache
+C:\Users\Farm\Desktop\AgSim\obj\x86\Release\AgSim.csprojResolveAssemblyReference.cache
+C:\Users\Leno\Desktop\AgOpenGPS_Dev\AgSim\bin\Release\AgSim.exe.config
+C:\Users\Leno\Desktop\AgOpenGPS_Dev\AgSim\obj\x86\Release\AgSim.exe
+C:\Users\Leno\Desktop\AgOpenGPS_Dev\AgSim\obj\x86\Release\AgSim.pdb

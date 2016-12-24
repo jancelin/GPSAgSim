@@ -400,8 +400,6 @@
             // chkGGA
             // 
             this.chkGGA.AutoSize = true;
-            this.chkGGA.Checked = true;
-            this.chkGGA.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkGGA.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkGGA.Location = new System.Drawing.Point(404, 88);
             this.chkGGA.Name = "chkGGA";
@@ -413,8 +411,6 @@
             // chkVTG
             // 
             this.chkVTG.AutoSize = true;
-            this.chkVTG.Checked = true;
-            this.chkVTG.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkVTG.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkVTG.Location = new System.Drawing.Point(404, 117);
             this.chkVTG.Name = "chkVTG";
@@ -426,6 +422,8 @@
             // chkRMC
             // 
             this.chkRMC.AutoSize = true;
+            this.chkRMC.Checked = true;
+            this.chkRMC.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkRMC.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkRMC.Location = new System.Drawing.Point(404, 146);
             this.chkRMC.Name = "chkRMC";
